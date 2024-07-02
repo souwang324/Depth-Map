@@ -9,5 +9,9 @@ https://deep-image.ai/blog/how-to-prepare-ai-generated-images-for-laser-engravin
 https://www.youtube.com/watch?v=VoN2r9QDZwc  \
 #2 Dragon Texture
 https://www.youtube.com/watch?v=JuMo1zU9Lz8  \
-#3 Beautiful Girl 1
+#3 Beautiful Girl 1 with Point
 https://www.youtube.com/watch?v=Lm7HpzoUHZw  \
+#4 Beautiful Girl 1 with Mesh 
+https://www.youtube.com/watch?v=RwfCeXGpwIQ  \
+
+
