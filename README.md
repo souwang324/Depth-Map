@@ -1,3 +1,7 @@
+# OS        : Windows 10
+# Platform  : Pycharm 
+# Package   : numpy, opencv-python, vtk
+
 # Depth Map
 # Visualize Depth Map with python vtk package 
 
