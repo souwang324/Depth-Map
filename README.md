@@ -33,3 +33,16 @@ https://www.youtube.com/watch?v=t0PmSO2Psew
 https://www.youtube.com/watch?v=mLFELQHMNeg
 # Beautiful Girl 5 with Mesh 
 https://www.youtube.com/watch?v=j3lrPp8flhM 
+----------------------------------------------------------------------------------
+# resource link 
+https://civitai.com/models/196866?modelVersionId=221360
+# Depth Map with python & vtk package - human Pose Estimation
+https://www.youtube.com/watch?v=viTkkC1HKyQ
+https://www.youtube.com/watch?v=f_n2l_iJhj8
+https://www.youtube.com/watch?v=TEjNAUSMQKs
+https://www.youtube.com/watch?v=J7SMmBxW3fU 
+https://www.youtube.com/watch?v=VETLgoLfYeY
+
+
+
+
