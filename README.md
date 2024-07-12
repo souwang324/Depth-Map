@@ -30,5 +30,7 @@ https://www.youtube.com/watch?v=VETLgoLfYeY
 ---------------------------------------------------------------------------------
 # resource link
 https://github.com/Extraltodeus/depthmap2mask
-
-
+# python vtk Viewer 
+https://www.youtube.com/watch?v=3hui7J_Uq0k \
+https://www.youtube.com/watch?v=2xhktA0cPWo \
+https://www.youtube.com/watch?v=iuVzsIe4zUk 
