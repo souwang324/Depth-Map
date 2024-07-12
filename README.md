@@ -2,16 +2,11 @@
 # Platform  : Pycharm 
 # Package   : numpy, opencv-python, vtk
 
-# Depth Map
-# Visualize Depth Map with python vtk package 
-
 # Depth Map Resource 
 https://clipdrop.co/blog/relight-technicalities  
 https://deep-image.ai/blog/how-to-prepare-ai-generated-images-for-laser-engraving/ 
-
-# Dragon Elevation 
+# Visualizing
 https://www.youtube.com/watch?v=VoN2r9QDZwc  
-# Dragon Texture
 https://www.youtube.com/watch?v=JuMo1zU9Lz8  
 https://www.youtube.com/watch?v=Lm7HpzoUHZw  
 https://www.youtube.com/watch?v=RwfCeXGpwIQ  
@@ -26,7 +21,7 @@ https://www.youtube.com/watch?v=j3lrPp8flhM
 ----------------------------------------------------------------------------------
 # resource link 
 https://civitai.com/models/196866?modelVersionId=221360
-# Depth Map with python & vtk package - human Pose Estimation
+# Viewer 
 https://www.youtube.com/watch?v=viTkkC1HKyQ \
 https://www.youtube.com/watch?v=f_n2l_iJhj8 \
 https://www.youtube.com/watch?v=TEjNAUSMQKs \
