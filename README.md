@@ -5,7 +5,7 @@
 # Depth Map Resource 
 https://clipdrop.co/blog/relight-technicalities  
 https://deep-image.ai/blog/how-to-prepare-ai-generated-images-for-laser-engraving/ 
-# Visualizing
+# Visualizing \
 https://www.youtube.com/watch?v=VoN2r9QDZwc  
 https://www.youtube.com/watch?v=JuMo1zU9Lz8  
 https://www.youtube.com/watch?v=Lm7HpzoUHZw  
@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=j3lrPp8flhM
 ----------------------------------------------------------------------------------
 # resource link 
 https://civitai.com/models/196866?modelVersionId=221360
-# Viewer 
+# Viewer \
 https://www.youtube.com/watch?v=viTkkC1HKyQ \
 https://www.youtube.com/watch?v=f_n2l_iJhj8 \
 https://www.youtube.com/watch?v=TEjNAUSMQKs \
