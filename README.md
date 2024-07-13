@@ -33,4 +33,28 @@ https://github.com/Extraltodeus/depthmap2mask
 # python vtk Viewer 
 https://www.youtube.com/watch?v=3hui7J_Uq0k \
 https://www.youtube.com/watch?v=2xhktA0cPWo \
-https://www.youtube.com/watch?v=iuVzsIe4zUk 
+https://www.youtube.com/watch?v=iuVzsIe4zUk \
+https://www.youtube.com/watch?v=yj37Usj_ENw \
+https://www.youtube.com/watch?v=llZ9GTp6T98 \
+https://www.youtube.com/watch?v=iUQFj112YAk \
+https://www.youtube.com/watch?v=MWSgZAG-L-E \
+https://www.youtube.com/watch?v=q4kFqZRjOnQ 
+
+# resource link
+https://kurokumasoft.com/2023/04/21/controlnet-preprocessors/
+
+# python vtk Viewer 
+https://www.youtube.com/watch?v=_Uq1jSFSIFY \
+https://www.youtube.com/watch?v=iHydROZ5NAw \
+https://www.youtube.com/watch?v=QsJ17WTeR7I \
+https://www.youtube.com/watch?v=ed0kbYLkUTM \
+https://www.youtube.com/watch?v=ElSp3H__mxM \
+https://www.youtube.com/watch?v=76GLeUk75qI 
+
+
+
+
+
+
+
+
