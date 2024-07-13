@@ -5,17 +5,17 @@
 https://clipdrop.co/blog/relight-technicalities  
 https://deep-image.ai/blog/how-to-prepare-ai-generated-images-for-laser-engraving/ 
 # Visualizing 
-https://www.youtube.com/watch?v=VoN2r9QDZwc  
-https://www.youtube.com/watch?v=JuMo1zU9Lz8  
-https://www.youtube.com/watch?v=Lm7HpzoUHZw  
-https://www.youtube.com/watch?v=RwfCeXGpwIQ  
-https://www.youtube.com/watch?v=JK3f5gp-U04   
-https://www.youtube.com/watch?v=tEsZ2sOmf3E  
-https://www.youtube.com/watch?v=xei5fhsFXRw 
-https://www.youtube.com/watch?v=s5C5zrnjD_Q 
-https://www.youtube.com/watch?v=GxdmN0HiRh8 
-https://www.youtube.com/watch?v=t0PmSO2Psew 
-https://www.youtube.com/watch?v=mLFELQHMNeg
+https://www.youtube.com/watch?v=VoN2r9QDZwc \
+https://www.youtube.com/watch?v=JuMo1zU9Lz8 \
+https://www.youtube.com/watch?v=Lm7HpzoUHZw \
+https://www.youtube.com/watch?v=RwfCeXGpwIQ \
+https://www.youtube.com/watch?v=JK3f5gp-U04 \
+https://www.youtube.com/watch?v=tEsZ2sOmf3E \
+https://www.youtube.com/watch?v=xei5fhsFXRw \
+https://www.youtube.com/watch?v=s5C5zrnjD_Q \
+https://www.youtube.com/watch?v=GxdmN0HiRh8 \
+https://www.youtube.com/watch?v=t0PmSO2Psew \
+https://www.youtube.com/watch?v=mLFELQHMNeg \
 https://www.youtube.com/watch?v=j3lrPp8flhM 
 
 # resource link 
